@@ -1,0 +1,7 @@
+/workspaces/STUDENT-MANAGEMENT-SYSTEM-MVC-DAO-JDBC-/src/main/java/Main.java
+/workspaces/STUDENT-MANAGEMENT-SYSTEM-MVC-DAO-JDBC-/src/main/java/controller/StudentController.java
+/workspaces/STUDENT-MANAGEMENT-SYSTEM-MVC-DAO-JDBC-/src/main/java/dao/StudentDAO.java
+/workspaces/STUDENT-MANAGEMENT-SYSTEM-MVC-DAO-JDBC-/src/main/java/dao/StudentDAOImpl.java
+/workspaces/STUDENT-MANAGEMENT-SYSTEM-MVC-DAO-JDBC-/src/main/java/model/Student.java
+/workspaces/STUDENT-MANAGEMENT-SYSTEM-MVC-DAO-JDBC-/src/main/java/util/DBConnection.java
+/workspaces/STUDENT-MANAGEMENT-SYSTEM-MVC-DAO-JDBC-/src/main/java/view/StudentView.java
