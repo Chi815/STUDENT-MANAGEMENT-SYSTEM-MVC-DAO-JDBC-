@@ -19,15 +19,6 @@ A console-based Java application built using **MVC Architecture**, **DAO Design 
 
 ---
 
-##  Tech Stack
-
-- Java (Core Java)
-- JDBC
-- PostgreSQL (Neon DB)
-- Maven
-- Console-based application
-
----
 
 ##  Project Architecture
 
